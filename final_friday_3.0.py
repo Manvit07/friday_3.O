@@ -370,7 +370,7 @@ if __name__ == "__main__":
                 speak("Anything else I can help you with, sir?")
                 
             elif "temperature" or "weather" in query:
-                search = query.replace("how is ","").replace("how is the ","").replace("what is ","").replace("what is the","")
+                search = query.replace("friday","").replace("how is ","").replace("how is the ","").replace("what is ","").replace("what is the","")
                 url = f"https://www.google.com/search?q={search}"
                 r = requests.get(url)
                 data = BeautifulSoup(r.text,"html.parser")
