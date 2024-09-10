@@ -68,10 +68,4 @@ Friday can automate tasks like opening applications, performing web searches, an
 ### 3. Speech Output
 Friday responds with spoken feedback using `pyttsx3` for text-to-speech conversion, informing the user of the status of their request.
 
-## Key Functionalities
 
-### Greeting and Interaction
-Friday greets the user based on the time of day and waits for commands.
-```python
-def wishMe():
-    ...
