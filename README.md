@@ -8,20 +8,6 @@
    - [Voice Commands](#1-voice-commands)
    - [Task Automation](#2-task-automation)
    - [Speech Output](#3-speech-output)
-5. [Key Functionalities](#key-functionalities)
-   - [Greeting and Interaction](#greeting-and-interaction)
-   - [YouTube Music Search](#youtube-music-search)
-   - [Google Search](#google-search)
-   - [System Control](#system-control)
-   - [Webcam Access](#webcam-access)
-   - [Screenshots](#screenshots)
-   - [IP Address](#ip-address)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Future Enhancements](#future-enhancements)
-9. [Contributing](#contributing)
-10. [License](#license)
-
 ## Overview
 
 **Friday 3.0** is a voice-controlled AI personal assistant that allows you to automate various tasks on your computer. From opening applications to playing music on YouTube, performing Google searches, controlling system settings, and more, Friday is designed to make your computer experience more convenient and efficient.
